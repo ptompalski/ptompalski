@@ -1,8 +1,18 @@
-### Hi 👋
+I'm Piotr, a research scientist with the Canadian Forest Service, specializing in remote sensing applications in forestry. My work focuses on developing next-generation tools and models to understand how Canada’s forests grow and change, using lidar, Landsat time series, and large-scale geospatial analytics. R is my primary programming language of choice.
 
-I'm Piotr, a research scientist with the Canadian Forest Service, specializing in remote sensing applications in forestry. My work focuses on developing tools and methods to analyze and manage forest resources, with R as my primary programming language.
+#### 🌲 Forest Growth & Remote Sensing
 
-#### 🌲 My Projects
+A major part of my current work focuses on Remote-Sensing Yield Curves (RSYC) - aboveground biomass yield curves developed for Canada, using a time series of satellite data.
+
+📦 RSYC package: https://github.com/ptompalski/RSYC
+
+#### 🛰️ Canada Forest Lidar Coverage
+
+I maintain a national-scale map showing airborne lidar acquisitions across Canada - an evolving resource supporting forest inventory, growth modeling, and remote-sensing research.
+
+🗺️ Canada Forest Lidar Coverage: https://ptompalski.github.io/CanadaForestLidarCoverage/
+
+#### 🌲 Other Projects
 
 - **[lidRmetrics](https://github.com/ptompalski/lidRmetrics)** - a companion to the fantastic [{lidR}](https://github.com/r-lidar/lidR) package, offering several metrics_* functions to simplify lidar processing routines.
 - **[LidarSpeedTests](https://github.com/ptompalski/LidarSpeedTests)** - testing and comparing runtimes of various point cloud processing tools.

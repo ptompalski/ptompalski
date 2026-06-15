@@ -6,11 +6,15 @@ A major part of my current work focuses on Remote-Sensing Yield Curves (RSYC) - 
 
 📦 RSYC package: https://github.com/ptompalski/RSYC
 
+![](https://github.com/ptompalski/RSYC/raw/main/man/figures/RSYC_curves_species_gh.png)
+
 #### 🛰️ Canada Forest Lidar Coverage
 
 I maintain a national-scale map showing airborne lidar acquisitions across Canada - an evolving resource supporting forest inventory, growth modeling, and remote-sensing research.
 
 🗺️ Canada Forest Lidar Coverage: https://ptompalski.github.io/CanadaForestLidarCoverage/
+
+![](https://github.com/ptompalski/CanadaForestLidarCoverage/raw/master/img/map1_ALS_coverage.png)
 
 #### 🌲 Other Projects
 
